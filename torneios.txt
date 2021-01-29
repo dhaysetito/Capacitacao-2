@@ -1,0 +1,3 @@
+('Torneio de Luta marajoara', 'Luta marajoara', 'marrom', [67, 84])
+('Torneio de Jiu-jitsu', 'Jiu-jitsu', 'livre', [67, 84])
+('Torneio de Huka-huka', 'Huka-huka', 'cinza', [67, 84])
